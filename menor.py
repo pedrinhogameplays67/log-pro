@@ -1,5 +1,5 @@
 # como achar o menor valor entre dois números
-
+# a
 # Passo 1 -> Ter 2 números
 numero1 = int(input('Digite um número: '))
 numero2 = int(input('Digite outro número: '))
